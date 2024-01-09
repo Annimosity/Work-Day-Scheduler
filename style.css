@@ -1,6 +1,6 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 textarea {
@@ -10,6 +10,21 @@ textarea {
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
+}
+
+h1 {
+  background-color: lightskyblue;
+  justify-content: center;
+}
+
+div {
+  background-color: cornflowerblue;
+}
+
+p {
+  font-size: 25px;
+  align-items: center;
+  justify-content: center;
 }
 
 .description {
@@ -49,7 +64,7 @@ textarea {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: lightgreen;
   color: white;
 }
 

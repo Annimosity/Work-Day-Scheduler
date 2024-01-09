@@ -65,19 +65,19 @@ $(function () {
   
 });
 
-// function curTime () {
+function curTime () {
     
-  // console.log(time)
-  // $( ".time-block" ).each(function() {
-  //   console.log($(this).attr("id"))
+  console.log(time)
+  $( ".time-block" ).each(function() {
+    console.log($(this).attr("id"))
   
-  // });
-  // }
-  // curTime();
+  });
+  }
+  curTime();
 
   // // TODO: Add code to get any user input that was saved in localStorage and set
   // // the values of the corresponding textarea elements. HINT: How can the id
   // // attribute of each time-block be used to do this?
 
-  //   $('#currentDay').text("Today is "+ formattedDate);
-  //   `Today is ${formattedDate}`
+    $('#currentDay').text("Today is "+ formattedDate);
+    `Today is ${formattedDate}`
