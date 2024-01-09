@@ -1,7 +1,6 @@
 // Wrap all code that interacts with the DOM in a call to jQuery to ensure that
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
-
 //take the current class of the time blocks, and replace them with the actual time, past present future.
 var saveBtn = $(".saveBtn");
 
