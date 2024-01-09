@@ -23,4 +23,4 @@ THEN the saved events persist
 https://github.com/Annimosity/Work-Day-Scheduler
 https://annimosity.github.io/Work-Day-Scheduler/
 
-![Alt text](image.png)
+![Alt text](image-1.png)
